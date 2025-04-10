@@ -1,1 +1,1 @@
-# Organization archived. Moved to https://git.perditum.com/Perditum.
+# Organization archived. Moved to https://perditum.com/perditum.
